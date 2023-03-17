@@ -290,8 +290,8 @@ public class Main {
 
         while (true){
 
-            int kazys = 5 + (int) Math.round(Math.random() * (5 - 25);
-            int petras = 10 + (int) Math.round(Math.random() * (10 - 20);
+//            int kazys = 5 + (int) Math.round(Math.random() * (5 - 25);
+//            int petras = 10 + (int) Math.round(Math.random() * (10 - 20);
 
 
 
